@@ -3,7 +3,7 @@ Path-Finding GUI in Python 3.8
 
 # Algorithms:
 
-For now the program is using 2 algorithms:
+For now the program uses 2 algorithms:
 
 -Dijkstra
 
