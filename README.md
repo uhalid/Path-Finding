@@ -3,11 +3,11 @@ Path-Finding GUI in Python 3.8
 
 # Algorithms:
 
-For now the program uses 2 algorithms:
+For now, the program uses two algorithms:
 
 -Dijkstra
 
--2 variant of A* one using manhattan distance and other uses euclidean distance
+-Two variant of A* one using manhattan distance and other use euclidean distance
 
 # Installation
 
@@ -17,22 +17,22 @@ The only addiction library that you need is pygame, the library that I'm using f
 -pip install pygame
 
 
-Soon (when I don't feel too lazy), I'm gonna release a module without the graphic part that you can use in your software.
+Soon (when I don't feel too lazy), I'm going to release a module without the graphic part that you can use in your software.
 
 # How it works??
 
 Here's a video:
 (Future uhalid record it and add it)
 
-Basically with clicking and holding left click you add whalls, for remove them just use right button,
-if you want to move start or end point click and drag and it will move, pressing A will run A*, with D dijkstra
+Basically by left-clicking and holding you add walls, to remove them just use right button,
+if you want to move start or endpoint click and drag and it will move, pressing A will run A*, with D Dijkstra
 
 Some extra feature I added while I was bored:
 - you can increase or decrease numbers of cell scrolling middle wheel.
 
-for choosing which heuristic use in A* you have to run the programm with an addiction argument, normally it uses manhattan distance.
-if you want to use eucliden "main.py --euclidean"
+For choosing which heuristic use in A* you have to run the program with an addiction argument, it usually uses manhattan distance.
+if you want to use euclidean "main.py --euclidean."
 
 Addiction argument you can add are:
-- "main.py --no-ui", with this all window size will be of cells, otherwise it will have 2 buttons for starting the different algorithms.
-- "main.py --beta", it enables some function that are in beta
+- "main.py --no-ui", with this all window size will be of cells; otherwise it will have two buttons for starting the different algorithms.
+- "main.py --beta", it enables some functions that are in beta
