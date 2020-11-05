@@ -14,7 +14,7 @@ For now, the program uses two algorithms:
 You have to use python 3.8 because I'm using "Assignment expressions" ([PEP 572](https://www.python.org/dev/peps/pep-0572/))
 
 The only addiction library that you need is pygame, the library that I'm using for the graphic.
--pip install pygame
+python -m pip install pygame
 
 
 Soon (when I don't feel too lazy), I'm going to release a module without the graphic part that you can use in your software.
