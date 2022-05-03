@@ -17,7 +17,6 @@ The only addiction library that you need is pygame, the library that I'm using f
 python -m pip install pygame
 
 
-Soon (when I don't feel too lazy), I'm going to release a module without the graphic part that you can use in your software.
 
 # How it works??
 
