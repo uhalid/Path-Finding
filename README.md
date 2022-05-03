@@ -21,8 +21,7 @@ Soon (when I don't feel too lazy), I'm going to release a module without the gra
 
 # How it works??
 
-Here's a video:
-(Future uhalid record it and add it)
+
 
 Basically by left-clicking and holding you add walls, to remove them just use right button,
 if you want to move start or endpoint click and drag and it will move, pressing A will run A*, with D Dijkstra
